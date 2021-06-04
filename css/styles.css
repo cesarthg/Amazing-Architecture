@@ -8,6 +8,18 @@
 
 svg {
     fill: #ffffff;
-    width: 18px;
-    height: 18px;
+    width: 16px;
+    height: 16px;
+}
+.img-logo {
+    height: 5rem;
+}
+.txt-logo {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+.bg-noche {
+    background-color: #000000;
+    height: 40px;
 }
